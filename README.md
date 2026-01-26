@@ -1,24 +1,41 @@
+<p align="center">Hi, I'm Aras! 👋</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arastugraatay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aras@mtive.tech) 
+<p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=006699&height=200&section=header&text=Aras&fontSize=90" /> </p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aras-sh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aras-sh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-sh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">🚀 Co-founder of MTIVE SOLUTIONS | AI & Autonomous Systems Architect</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aras-sh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"> Building high-impact security ecosystems with LiDAR, Computer Vision, and Robotics. </p>
+🏢 Professional Profile
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    Co-founder @ MTIVE SOLUTIONS: Leading the technical vision and development of next-gen autonomous security solutions alongside Alpay.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aras-sh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    Student & Innovator: A high school preparatory student blending rigorous academic growth with real-world tech entrepreneurship.
 
----
-[![](https://visitcount.itsvg.in/api?id=Aras-sh&icon=0&color=0)](https://visitcount.itsvg.in)
+    AI Researcher: Focused on optimizing local LLM deployments and computer vision models for edge computing.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛸 Project Spotlight
+
+    SmartPatrol360: An autonomous security ecosystem utilizing LiDAR, AI, and drones for advanced perimeter protection.
+
+    FaceStack: High-performance facial recognition suite optimized for diverse hardware, including NVIDIA and AMD (ROCm).
+
+    MOTIS: A dedicated local AI system assistant designed for streamlined hardware and OS management.
+
+🛠️ Strategic Arsenal
+🧠 AI, Machine Learning & Vision
+🌐 Infrastructure & Systems
+⚙️ Infrastructure & Hardware Lab
+
+    Home Lab Operations: Managing a high-performance lab environment using Proxmox on Debian/Ubuntu servers to simulate enterprise-grade security deployments.
+
+    Hardware Mastery: Leveraging AMD RX 7900 XT and NVIDIA Jetson AGX Orin for high-performance AI inference and model training.
+
+    Network Security: Implementing robust security layers using WireGuard, UFW, and Fail2ban to ensure secure remote development environments.
+
+📊 Performance & Insights
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aras-sh&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-sh&layout=compact&theme=tokyonight" height="170" /> </p>
+
+<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Aras-sh&theme=dark" /> </p>
+
+<p align="center"> <a href="https://instagram.com/@arastugraatay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="mailto:aras@mtive.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
