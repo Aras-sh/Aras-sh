@@ -12,16 +12,16 @@
 ---
 
 ### 🏢 Professional Profile
-* **Co-founder @ [MTIVE SOLUTIONS](https://github.com/MTIVE-SOLUTIONS)**: Leading the technical vision and development of next-gen autonomous security solutions alongside Alpay.
-* **Student & Innovator**: A high school preparatory student blending rigorous academic growth with real-world tech entrepreneurship.
-* **AI Researcher**: Focused on optimizing local LLM deployments and computer vision models for edge computing.
+* **Co-founder @ [MTIVE SOLUTIONS](https://github.com/MTIVE-SOLUTIONS)**: Leading the technical vision and strategic development of next-generation autonomous security solutions.
+* **Student & Innovator**: A high school preparatory student bridging academic excellence with real-world tech entrepreneurship.
+* **AI Researcher**: Focused on optimizing local model deployments and computer vision frameworks for edge computing and real-time inference.
 
 ### 🛸 Project Spotlight
-* **[SmartPatrol360](https://github.com/Aras-sh/SmartPatrol360)**: An autonomous security ecosystem utilizing LiDAR, AI, and drones for advanced perimeter protection.
-* **[FaceStack](https://github.com/Aras-sh/FaceStack)**: High-performance facial recognition suite optimized for diverse hardware, including NVIDIA and AMD (ROCm).
-* **MOTIS**: A dedicated local AI system assistant designed for streamlined hardware and OS management.
+* **[SmartPatrol360](https://github.com/Aras-sh/SmartPatrol360)**: An autonomous security ecosystem designed for advanced perimeter protection and situational awareness.
+* **[FaceStack](https://github.com/Aras-sh/FaceStack)**: A high-performance facial recognition engine designed for speed and reliability across various hardware environments.
+* **MOTIS**: A dedicated local AI assistant developed to streamline system management and hardware orchestration.
 
-### 🛠️ Strategic Arsenal
+### 🛠️ Core Competencies
 
 #### 🧠 AI, Machine Learning & Vision
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,13 +32,14 @@
 #### 🌐 Infrastructure & Systems
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=white)
+![Network](https://img.shields.io/badge/Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-orange?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### ⚙️ Infrastructure & Hardware Lab
-* **Home Lab Operations**: Managing a high-performance lab environment using **Proxmox** on **Debian/Ubuntu** servers to simulate enterprise-grade security deployments.
-* **Hardware Mastery**: Leveraging **AMD RX 7900 XT** and **NVIDIA Jetson AGX Orin** for high-performance AI inference and model training.
-* **Network Security**: Implementing robust security layers using **WireGuard**, **UFW**, and **Fail2ban** to ensure secure remote development environments.
+### ⚙️ Infrastructure & Engineering Philosophy
+* **Edge-Cloud Synergy**: Designing architectures that balance local processing power with cloud scalability for real-time autonomous operations.
+* **System Hardening & Security**: Implementing enterprise-level security protocols and network protection to ensure data integrity and secure remote access.
+* **Advanced Virtualization**: Utilizing virtualization environments to simulate complex deployment scenarios and optimize model performance before production.
+* **High-Performance Computing**: Orchestrating heterogeneous hardware setups to maximize efficiency in AI training and heavy workload inference.
 
 ---
 
@@ -46,10 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aras-sh&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aras-sh&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aras-sh&theme=dark" />
 </p>
 
 <p align="center">
