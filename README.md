@@ -1,7 +1,4 @@
 # <p align="center">Hi, I'm Aras! 👋</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=006699&height=200&section=header&text=Aras&fontSize=90" />
-</p>
 
 <h3 align="center">🚀 Co-founder of MTIVE SOLUTIONS | AI & Autonomous Systems Architect</h3>
 
